@@ -64,7 +64,7 @@ fn main(){
         };
 
     let price : f64 = loop{
-        let input = get_input("Enter Expense quantity");
+        let input = get_input("Enter Expense price");
         match input.trim().parse::<f64>(){
             Ok(num)=>break num,
             Err(_)=>println!("Invalid price. Please enter a valid price")
