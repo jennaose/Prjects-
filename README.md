@@ -15,10 +15,6 @@ An easy-to-use, command-line interface (CLI) application for tracking expenses. 
 
 ## **Technologies Used**
 - **Language**: [Rust](https://www.rust-lang.org/)
-- **Dependencies**:
-  - [Tokio](https://tokio.rs/) (if applicable)
-  - `serde` for serialization/deserialization
-  - `csv` for data storage (if using CSV)
 
 ---
 
