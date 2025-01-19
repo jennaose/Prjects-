@@ -97,4 +97,4 @@ Feel free to reach out with feedback or suggestions!
 
 ### **Contact**
 - GitHub: [jennaose](https://github.com/jennaose)
-- Email: [Your Email Address] (optional)
+- Email: oseghalejennifer13@gmail.com
